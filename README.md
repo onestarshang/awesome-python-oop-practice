@@ -5,4 +5,5 @@
 ===========================
 
 * [python -- super() function](http://rhettinger.wordpress.com/2011/05/26/super-considered-super/) How to use super() function
-* [python -- closure](http://www.cnblogs.com/ChrisChen3121/p/3208119.html) Understand closure more deeply(chs)
+* [python -- closure](http://www.cnblogs.com/ChrisChen3121/p/3208119.html) Understanding closure more deeply(chs)
+* [python -- with statement](http://effbot.org/zone/python-with-statement.htm) Understanding Python's "with" statement
