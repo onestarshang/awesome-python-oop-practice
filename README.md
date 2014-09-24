@@ -10,4 +10,4 @@
 * [python -- super()](http://blog.csdn.net/johnsonguo/article/details/585193) Understanding Python's "super()"
 * [python -- Singleton](http://stackoverflow.com/questions/6760685/creating-a-singleton-in-python) Design patten Singleton
 * [python -- __new__ , __init__](http://stackoverflow.com/questions/674304/pythons-use-of-new-and-init) Understanding Python's __new__, __init__
-* [python -- __metaclass__ ](http://stackoverflow.com/questions/674304/pythons-use-of-new-and-init) Understanding Python's __metaclass__ 
+* [python -- __metaclass__ ](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python) Understanding Python's __metaclass__ 
